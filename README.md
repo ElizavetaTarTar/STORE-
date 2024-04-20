@@ -9,7 +9,7 @@
 - количество комментариев, 
 - количество просмотров, 
 - количество репостов, 
-- цена товара,
+- цена товара
   
 2-3 категориальных признака:
 - категория товара в соответствие с [каталогом магазина](https://vk.com/albums-59803960)
@@ -27,12 +27,17 @@
 
 # Разделы проекта 
 
-Parsing - содержит блокнот [jupyter notebook] с процессом парсинга и полученный [датафрейм](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Dataframe_Girlzzz.csv)
+Parsing - содержит блокнот [jupyter notebook] с процессом парсинга и полученный [датафрейм](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Dataframe_Girlzzz.csv).
+
+STEP3 - содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/Step3.ipynb) с предварительной обработкой и полученную промежуточную [таблицу](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/Step_3) с обработанными данными.
+
+UsedMemes - представлены [изображения](https://github.com/ElizavetaTarTar/STORE-/tree/main) мемов, использованных в проекте.
 
 # Сбор данных
 Мы собираем данные посредством парсинга [сообщества](https://vk.com/shoopplk) через VK API. Агрегированные данные после парсинга были сохранены в [таблицу](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Dataframe_Girlzzz.csv) 
 
 # Предварительная обработка
+В ходе предварительной обработки определены категориальные данные:количество лайков, количество комментариев, количество просмотров, количество репостов и наличие в датафрейме информации о дате и времени публикации постов и содержащимся в них тексте, обработаны пропуски посредством удаления из-за невозможности восполнения данных и последующего анализа. Процесс предварительной обработки содержится в [STEP3](https://github.com/ElizavetaTarTar/STORE-/tree/main).
 
 # Визуализация
 
