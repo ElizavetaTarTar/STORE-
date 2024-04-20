@@ -29,7 +29,7 @@
 
 Parsing - содержит блокнот [jupyter notebook] с процессом парсинга и полученный [датафрейм](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Dataframe_Girlzzz.csv).
 
-STEP3 - содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/Step3.ipynb) с предварительной обработкой и полученную промежуточную [таблицу](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/Step_3) с обработанными данными.
+STEP3 - содержит блокнот [jupyter notebook]() с предварительной обработкой и полученную промежуточную [таблицу](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/Step3%20(3)) с обработанными данными.
 
 UsedMemes - представлены изображения мемов, использованных в проекте.
 
