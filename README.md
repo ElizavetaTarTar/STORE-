@@ -28,7 +28,7 @@
 
 # Разделы проекта 
 
-Parsing - содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Parsing.ipynb) с процессом парсинга ([ссылка](https://colab.research.google.com/drive/1gtcblt2aLZy7MhAiP5OxEU4wjEGso3B1?usp=sharing) на блокт с парсингом на диске) и полученный [датафрейм](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Dataframe_Girlzzz.csv).
+Parsing - aka STEP1-STEP2, содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Parsing.ipynb) с процессом парсинга ([ссылка](https://colab.research.google.com/drive/1gtcblt2aLZy7MhAiP5OxEU4wjEGso3B1?usp=sharing) на блокт с парсингом на диске) и полученный [датафрейм](https://github.com/ElizavetaTarTar/STORE-/blob/main/Parcing/Dataframe_Girlzzz.csv).
 
 STEP3 - содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/STEP3.ipynb) c предварительной обработкой и категоризацией и полученную промежуточную [таблицу](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/Step3%20(3)) с обработанными данными. Также содержится итоговая [таблица](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP3/category1.csv) для STEP4.
 
