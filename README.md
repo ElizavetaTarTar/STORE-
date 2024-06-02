@@ -36,7 +36,7 @@ STEP4 - содержит блокнот [jupyter notebook](https://github.com/El
 
 STEP5 - содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP5/Girlzzz_Hypotesis.ipynb) с проверкой гипотез.
 
-STEP6 - содержит блокнот [jupyter notebook] с машинным обучением.
+STEP6 - содержит блокнот [jupyter notebook](https://github.com/ElizavetaTarTar/STORE-/blob/main/STEP6/Girlzzz%20ML.ipynb) с машинным обучением.
 
 UsedMemes - представлены изображения мемов, использованных в проекте.
 
